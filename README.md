@@ -3,6 +3,7 @@
 A bot for checking Indonesian movie times, powered by [Microsoft Bot Framework](https://dev.botframework.com/).
 
 [![Add to Skype](https://dev.botframework.com/Client/Images/Add-To-Skype-Buttons.png)](https://join.skype.com/bot/a3a9f19a-ee5a-4d46-8571-473fa4f35918)
+<a href="https://slack.com/oauth/authorize?scope=bot&client_id=3326205449.58348898260&redirect_uri=https%3a%2f%2fslack.botframework.com%2fHome%2fauth&state=botbioskop"><img height="25" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"></a>
 
 Add on Telegram: [@bioskop_bot](https://telegram.me/bioskop_bot)
 
