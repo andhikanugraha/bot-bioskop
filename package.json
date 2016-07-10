@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Bot for checking cinema schedules in Indonesia.",
-  "main": "dist/app.js",
+  "main": "app.js",
   "engines": {
     "node": ">=6.0.0"
   },
