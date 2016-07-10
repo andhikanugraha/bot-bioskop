@@ -1,0 +1,29 @@
+{
+  "name": "bot-bioskop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bot for checking cinema schedules in Indonesia.",
+  "main": "dist/app.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "cinema"
+  ],
+  "author": "Andhika Nugraha (andhika.nugraha@outlook.com)",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "botbuilder": "^3.0.0",
+    "cheerio": "^0.20.0",
+    "lodash": "^4.13.1",
+    "moment": "^2.14.1",
+    "moment-timezone": "^0.5.4",
+    "node-fetch": "^1.5.3",
+    "restify": "^4.1.1"
+  }
+}
