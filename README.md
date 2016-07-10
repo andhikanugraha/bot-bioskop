@@ -1,12 +1,13 @@
 # bot-bioskop
 
-A bot for checking Indonesian movie times.
 
-## Developing locally on Windows
+
+
+## Debugging locally on Windows
 
 If you’re running Windows you can use the [Bot Framework Emulator](/en-us/tools/bot-framework-emulator/) to locally test your changes and verify you have everything properly configured prior to deploying your bot. Make sure you set the App ID & Password within the emulator to match your bots configured App ID & Password.
 
-## Debugging locally using ngrok
+## Debugging using ngrok
 
 If you’re running on a Mac and can’t use the emulator, or you just want to debug an issue you’re seeing when deployed, you can easily configure your bot to run locally using [ngrok](https://ngrok.com/). First install ngrok and then from a console window type:
 
