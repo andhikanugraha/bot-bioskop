@@ -1,7 +1,10 @@
 # bot-bioskop
 
+A bot for checking Indonesian movie times, powered by [Microsoft Bot Framework](https://dev.botframework.com/).
 
+[![Add to Skype](https://dev.botframework.com/Client/Images/Add-To-Skype-Buttons.png)](https://join.skype.com/bot/a3a9f19a-ee5a-4d46-8571-473fa4f35918)
 
+Add on Telegram: [@bioskop_bot](https://telegram.me/bioskop_bot)
 
 ## Debugging locally on Windows
 
