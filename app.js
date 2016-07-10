@@ -19,6 +19,7 @@ CinemaCore.init()
 
   // Setup Restify Server
   let server = restify.createServer();
+  server.name = 'bot-bioskop';
 
   let connector = new builder.ChatConnector({
       appId: process.env.MICROSOFT_APP_ID,
