@@ -1,7 +1,6 @@
 const restify = require('restify');
 const builder = require('botbuilder');
 
-const CinemaCore = require('./lib/CinemaCore');
 const bot = require('./lib/bot');
 
 /*
@@ -13,8 +12,7 @@ The idea:
   - loadCity
 */
 
-CinemaCore.init()
-.then(function initBot() {
+try {
   let serverPort = process.env.port || process.env.PORT || 3978;
 
   // Setup Restify Server
@@ -44,7 +42,6 @@ CinemaCore.init()
       resolve();
     });
   });
-})
-.catch(err => {
+} catch (err) {
   console.error(err);
-});
+}
