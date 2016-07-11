@@ -24,6 +24,7 @@
     "moment-timezone": "^0.5.4",
     "node-fetch": "^1.5.3",
     "numeral": "^1.5.3",
+    "qry": "^0.1.0",
     "restify": "^4.1.1"
   }
 }
